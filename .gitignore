@@ -23,5 +23,6 @@ scripts/*.html
 scripts/seacrest/*spin
 scripts/*.html
 scratchpad.R
+example.R
 ~/.boxr-oauth
 ignore/*
